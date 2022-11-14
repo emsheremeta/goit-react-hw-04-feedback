@@ -61,7 +61,6 @@ export default function App() {
     </div>
   );
 }
-
 // OLD VERSION
 
 // export default class App extends React.Component {
