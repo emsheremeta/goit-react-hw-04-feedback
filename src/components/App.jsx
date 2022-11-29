@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import './Feedback.css';
 import FeedbackOptions from './FeedbackOptions';
 import Statistics from './Statistics';
 import Section from './Section';
@@ -61,6 +60,7 @@ export default function App() {
     </div>
   );
 }
+
 // OLD VERSION
 
 // export default class App extends React.Component {
